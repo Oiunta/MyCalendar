@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TaskViewModel.createTask(taskDate:title:description:):TaskViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tasks">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomCalender.extractDate():CustomCalender.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "weekday">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomCalender.isSameDay(date1:date2:):CustomCalender.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "calendar.isDate(date1, inSameDayAs: date2)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskViewModel.onStart():TaskViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tasks">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CustomCalender.extractDate():CustomCalender.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "calendar.component(.day, from: date)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
